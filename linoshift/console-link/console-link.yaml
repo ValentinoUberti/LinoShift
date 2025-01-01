@@ -1,0 +1,8 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleLink
+metadata:
+  name: console-link
+spec:
+  href: 'https://www.youtube.com/watch?v=jW5wBHUQDMI'
+  location: ApplicationMenu 
+  text: Lino Banfi's best scenes
