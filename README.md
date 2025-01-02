@@ -31,7 +31,7 @@ Result:
 
 ## Web console link
 
-- Using sub-sections amd image logo
+- Using sub-sections and image logo
 - image logo is resized to 24x24 px
 
 ```
@@ -53,3 +53,9 @@ Result:
 
 ![Web Console link](./images/console-link.png)
 
+
+## Custom login template
+
+```
+oc adm create-login-template > login.html
+```
